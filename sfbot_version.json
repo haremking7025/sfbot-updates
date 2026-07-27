@@ -1,6 +1,6 @@
 {
-  "latest": "1.0.83",
-  "download_url": "https://github.com/haremking7025/sfbot-updates/releases/download/v1.0.83/SFBOT_v1.0.83.exe",
-  "notes": "ทดสอบ Javascript",
-  "sha256": "F4004DD575686B93A228F5E3E028106048516B940065D5DB76EEE67DFAFDA27E"
+  "latest": "1.0.84",
+  "download_url": "https://github.com/haremking7025/sfbot-updates/releases/download/v1.0.84/SFBOT_v1.0.84.exe",
+  "notes": "แก้ไขบั๊กเลื่อนสกอลล์ในตารางไม่ได้ ต้องไปจ่อพื้นดำถึงจะเลื่อนได้",
+  "sha256": "AC4CB96D031B111B1B7D96FA02C908EFE80675843A26874668D1B239DBED7890"
 }
