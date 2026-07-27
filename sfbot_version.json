@@ -1,6 +1,6 @@
 {
-  "latest": "1.2.7",
-  "download_url": "https://github.com/haremking7025/sfbot-updates/releases/download/v1.2.7/SFBOT_v1.2.7.exe",
-  "notes": "แก้ไขบั๊กคุกกี้",
-  "sha256": "A570A9D4803318121A4D7BBBBE9EAECF1F761E5965F5137DBD79A61AFAF0C5E3"
+  "latest": "1.2.8",
+  "download_url": "https://github.com/haremking7025/sfbot-updates/releases/download/v1.2.8/SFBOT_v1.2.8.exe",
+  "notes": "ปิดปรับปรุง 99ล้านปี แก้บั๊กทั้งหมด",
+  "sha256": "DB8AE5081704DEDB398990BEAA8C973A0158C0D1334989485D90F3CE73C42F16"
 }
