@@ -1,6 +1,6 @@
 {
-  "latest": "1.1.7",
-  "download_url": "https://github.com/haremking7025/sfbot-updates/releases/download/v1.1.7/SFBOT_v1.1.7.exe",
-  "notes": "",
-  "sha256": "0B77817C9CD6743B78526762EE36F4F907D203A79BE9FEBC924FEE8A7E19534B"
+  "latest": "1.2.0",
+  "download_url": "https://github.com/haremking7025/sfbot-updates/releases/download/v1.2.0/SFBOT_v1.2.0.exe",
+  "notes": "ปลดล็อคฟีจอร์ทั้งหมดให้ใช้งานได้ฟรี",
+  "sha256": "65E14210C5120687766A0FDD3DDF50A1A5E1FD53AF405091F21C1878087C2831"
 }
