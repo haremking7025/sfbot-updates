@@ -1,6 +1,6 @@
 {
-  "latest": "1.2.6",
-  "download_url": "https://github.com/haremking7025/sfbot-updates/releases/download/v1.2.6/SFBOT_v1.2.6.exe",
-  "notes": "",
-  "sha256": "3A20502C287427C0B057A930D085DC07792B7DD019C5661465E5608DD0359E12"
+  "latest": "1.2.7",
+  "download_url": "https://github.com/haremking7025/sfbot-updates/releases/download/v1.2.7/SFBOT_v1.2.7.exe",
+  "notes": "แก้ไขบั๊กคุกกี้",
+  "sha256": "A570A9D4803318121A4D7BBBBE9EAECF1F761E5965F5137DBD79A61AFAF0C5E3"
 }
