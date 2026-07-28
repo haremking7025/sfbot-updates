@@ -1,6 +1,6 @@
 {
-  "latest": "1.3.7.0",
-  "download_url": "https://github.com/haremking7025/sfbot-updates/releases/download/v1.3.7.0/SFBOT_v1.3.7.0.exe",
-  "notes": "ยังทำไม่เสร็จ",
-  "sha256": "04192BD2C082FE523E662999BAFF646E57C4D8FC65013BF88DC0C752E9B8E10B"
+  "latest": "1.3.7.1",
+  "download_url": "https://github.com/haremking7025/sfbot-updates/releases/download/v1.3.7.1/SFBOT_v1.3.7.1.exe",
+  "notes": "ปิดปรับปรุง 99 ล้านปีเพื่ออัปเดต Selenium เป็น NoDriver",
+  "sha256": "034A1E9E43B11F3DB2A01FB8AFA4AA47A038821C65CD14AF3122CDE050F1BCC7"
 }
