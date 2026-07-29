@@ -1,6 +1,6 @@
 {
-  "latest": "2.3.0",
-  "download_url": "https://github.com/haremking7025/sfbot-updates/releases/download/v2.3.0/SFBOT_v2.3.0.exe",
-  "notes": "",
-  "sha256": "D169E858AE22C98AE5DD67520699289BE14D89E782FD6BC892DD8C94BAF9334F"
+  "latest": "2.3.1",
+  "download_url": "https://github.com/haremking7025/sfbot-updates/releases/download/v2.3.1/SFBOT_v2.3.1.exe",
+  "notes": "ทดสอบ License Key",
+  "sha256": "14029E074FD1AF60DD46DFA99688C517787CE2F6D9FFF9E79D0C42D11DDE7480"
 }
